@@ -1,12 +1,12 @@
 body {
     background: #f5d9d5;
-    font-family: "Nunito", sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .blurb h2 {
     color: #ea1c2c;
     font-size: 2.5rem;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 .blurb p {
@@ -16,6 +16,10 @@ body {
     line-height: 2;
 }
 
+.headline {
+    font-weight: 300;
+}
+
 .content {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -23,13 +27,13 @@ body {
 
 #mainNav {
     font-size: 1.5rem;
-    font-weight: 100;
+    font-weight: 200;
 }
 
 #mainNav .navbar-brand {
     color: #ea1c2c;
     font-size: 1.5rem;
-    font-weight: 100;
+    font-weight: 200;
 }
 
 #mainNav .nav-link {
@@ -45,7 +49,7 @@ body {
 }
 
 #headGroup h1 {
-    font-weight: 100;
+    font-weight: 400;
     font-size: 4rem;
 }
 
